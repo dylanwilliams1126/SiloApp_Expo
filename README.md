@@ -10,7 +10,7 @@ This is a new [**React Native**](https://reactnative.dev), [**Expo**](https://ex
 [![NPM Version](https://img.shields.io/npm/v/react-native-webview.svg?style=flat-square)](https://www.npmjs.com/package/react-native-webview)
 ![Npm Downloads](https://img.shields.io/npm/dm/react-native-webview.svg)
 
-<img src="https://github.com/reactnative1126/SiloApp_Expo/blob/master/app/assets/images/logo.png" width="80">
+<img src="https://github.com/dylanwilliams1126/SiloApp_Expo/blob/master/app/assets/images/logo.png" width="80">
 
 <!-- ## Download
 
@@ -22,11 +22,11 @@ This is a new [**React Native**](https://reactnative.dev), [**Expo**](https://ex
 
 Welcome to my project! Below are my favorite videos & screenshots related to this project:
 
-<a href="https://vimeo.com/958085780">
-   <img src="https://github.com/reactnative1126/SiloApp_Expo/blob/master/app/assets/screens/1.png" width="500" alt="Screen 3" hspace="5">
+<a href="https://youtu.be/s4kXS9HBjRc">
+   <img src="https://github.com/dylanwilliams1126/SiloApp_Expo/blob/master/app/assets/screens/1.png" width="500" alt="Screen 3" hspace="5">
 </a>
 
-<img src="https://github.com/reactnative1126/SiloApp_Expo/blob/master/app/assets/screens/2.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/reactnative1126/SiloApp_Expo/blob/master/app/assets/screens/3.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/reactnative1126/SiloApp_Expo/blob/master/app/assets/screens/4.png" width="250" alt="Screen 4" hspace="5">
+<img src="https://github.com/dylanwilliams1126/SiloApp_Expo/blob/master/app/assets/screens/2.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/dylanwilliams1126/SiloApp_Expo/blob/master/app/assets/screens/3.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/dylanwilliams1126/SiloApp_Expo/blob/master/app/assets/screens/4.png" width="250" alt="Screen 4" hspace="5">
 
 ## Getting Started
 
@@ -88,7 +88,7 @@ Now that you have successfully run the app, let's modify it.
 1. Open `App.tsx` in your text editor and edit some lines.
 2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
-For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
 ### Congratulations! :tada:
 
@@ -126,4 +126,4 @@ To learn more about React Native, take a look at the following resources:
 
 ## License
 
-RebelFi expo mobile application is licensed under [The MIT License](LICENSE) © Silas Jones 2023-
+RebelFi expo mobile application is licensed under [The MIT License](LICENSE) © Dylan Williams 2023-
